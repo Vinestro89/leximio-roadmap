@@ -1,0 +1,158 @@
+[
+    {
+      "id": "1",
+      "title": "Add verbs",
+      "localizedTitle": [
+          {
+            "language": "fr",
+            "value": "Gestion des verbes"
+          },
+          {
+            "language": "en",
+            "value": "Add verbs"
+          }
+      ],
+      "description": "Qualify a word as a verb and add conjugation.",
+      "localizedDescription": [
+          {
+            "language": "fr",
+            "value": "Spécifier un mot en tant que verbe et ajouter la conjugaison."
+          },
+          {
+            "language": "en",
+            "value": "Qualify a word as a verb and add conjugation."
+          }
+      ],
+      "status": "Backlog"
+    },
+    {
+      "id": "2",
+      "title": "Add synonyms",
+      "localizedTitle": [
+          {
+            "language": "fr",
+            "value": "Gestion des synonymes"
+          },
+          {
+            "language": "en",
+            "value": "Add synonyms"
+          }
+      ],
+      "description": "Add synonyms for a word.",
+      "localizedDescription": [
+          {
+            "language": "fr",
+            "value": "Ajouter des synonymes pour un mot."
+          },
+          {
+            "language": "en",
+            "value": "Add synonyms for a word."
+          }
+      ],
+      "status": "Backlog"
+    },
+    {
+      "id": "3",
+      "title": "Register pronunciation",
+      "localizedTitle": [
+          {
+            "language": "fr",
+            "value": "Enregistrer la prononciation"
+          },
+          {
+            "language": "en",
+            "value": "Register pronunciation"
+          }
+      ],
+      "description": "Register your voice to enhanced your pronunciation.",
+      "localizedDescription": [
+          {
+            "language": "fr",
+            "value": "Enregistrer votre voix pour améliorer votre prononciation."
+          },
+          {
+            "language": "en",
+            "value": "Register your voice to enhanced your pronunciation."
+          }
+      ],
+      "status": "Backlog"
+    },
+    {
+      "id": "4",
+      "title": "Add image",
+      "localizedTitle": [
+          {
+            "language": "fr",
+            "value": "Ajouter une image"
+          },
+          {
+            "language": "en",
+            "value": "Add image"
+          }
+      ],
+      "description": "Add an image to illustrate your vocabulary.",
+      "localizedDescription": [
+          {
+            "language": "fr",
+            "value": "Ajouter une image pour illustrer votre vocabulaire."
+          },
+          {
+            "language": "en",
+            "value": "Add an image to illustrate your vocabulary."
+          }
+      ],
+      "status": "Backlog"
+    },
+    {
+      "id": "5",
+      "title": "Word of the day",
+      "localizedTitle": [
+          {
+            "language": "fr",
+            "value": "Mot du jour"
+          },
+          {
+            "language": "en",
+            "value": "Word of the day"
+          }
+      ],
+      "description": "Every day, highlight a word of your lexicon to help you remember it.",
+      "localizedDescription": [
+          {
+            "language": "fr",
+            "value": "Chaque jour, l'app mettra en avant un mot de votre lexique pour vous aider à le mémoriser."
+          },
+          {
+            "language": "en",
+            "value": "Every day, highlight a word of your lexicon to help you remember it."
+          }
+      ],
+      "status": "In development"
+    },
+    {
+      "id": "6",
+      "title": "CSV export",
+      "localizedTitle": [
+          {
+            "language": "fr",
+            "value": "Export CSV"
+          },
+          {
+            "language": "en",
+            "value": "CSV export"
+          }
+      ],
+      "description": "Get all your lexicon data in CSV file.",
+      "localizedDescription": [
+          {
+            "language": "fr",
+            "value": "Retrouver tout votre lexique dans un fichier CSV."
+          },
+          {
+            "language": "en",
+            "value": "Get all your lexicon data in CSV file."
+          }
+      ],
+      "status": "Backlog"
+    }
+  ]
