@@ -1,30 +1,4 @@
-[
-  {
-    "id": "5",
-    "title": "Word of the day",
-    "localizedTitle": [
-        {
-          "language": "fr",
-          "value": "Mot du jour"
-        },
-        {
-          "language": "en",
-          "value": "Word of the day"
-        }
-    ],
-    "description": "Every day, highlight a word of your lexicon to help you remember it.",
-    "localizedDescription": [
-        {
-          "language": "fr",
-          "value": "Chaque jour, l'app mettra en avant un mot de votre lexique pour vous aider à le mémoriser."
-        },
-        {
-          "language": "en",
-          "value": "Every day, highlight a word of your lexicon to help you remember it."
-        }
-    ],
-    "status": "In development"
-  },  
+[  
   {
       "id": "1",
       "title": "Add verbs",
@@ -154,5 +128,32 @@
           }
       ],
       "status": "Backlog"
+    },
+    {
+      "id": "5",
+      "title": "Word of the day",
+      "localizedTitle": [
+          {
+            "language": "fr",
+            "value": "Mot du jour"
+          },
+          {
+            "language": "en",
+            "value": "Word of the day"
+          }
+      ],
+      "description": "Every day, highlight a word of your lexicon to help you remember it.",
+      "localizedDescription": [
+          {
+            "language": "fr",
+            "value": "Chaque jour, l'app mettra en avant un mot de votre lexique pour vous aider à le mémoriser."
+          },
+          {
+            "language": "en",
+            "value": "Every day, highlight a word of your lexicon to help you remember it."
+          }
+      ],
+      "status": "finished",
+      "isFinished": true
     }
   ]
