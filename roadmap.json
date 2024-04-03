@@ -1,159 +1,363 @@
-[  
-  {
-      "id": "1",
-      "title": "Add verbs",
-      "localizedTitle": [
-          {
-            "language": "fr",
-            "value": "Gestion des verbes"
-          },
-          {
-            "language": "en",
-            "value": "Add verbs"
-          }
-      ],
-      "description": "Qualify a word as a verb and add conjugation.",
-      "localizedDescription": [
-          {
-            "language": "fr",
-            "value": "Spécifier un mot en tant que verbe et ajouter la conjugaison."
-          },
-          {
-            "language": "en",
-            "value": "Qualify a word as a verb and add conjugation."
-          }
-      ],
-      "status": "Backlog"
+[
+    {
+        "id": "6",
+        "title": "Review notification",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Notification de révision"
+            },
+            {
+                "language": "en",
+                "value": "Review notification"
+            }
+        ],
+        "description": "Get notified when a review is available.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "Être notifié lorsqu'une révision est disponible."
+            },
+            {
+                "language": "en",
+                "value": "Get notified when a review is available."
+            }
+        ],
+        "status": "Backlog",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "En attente"
+            },
+            {
+                "language": "en",
+                "value": "Backlog"
+            }
+        ]
     },
     {
-      "id": "2",
-      "title": "Add synonyms",
-      "localizedTitle": [
-          {
-            "language": "fr",
-            "value": "Gestion des synonymes"
-          },
-          {
-            "language": "en",
-            "value": "Add synonyms"
-          }
-      ],
-      "description": "Add synonyms for a word.",
-      "localizedDescription": [
-          {
-            "language": "fr",
-            "value": "Ajouter des synonymes pour un mot."
-          },
-          {
-            "language": "en",
-            "value": "Add synonyms for a word."
-          }
-      ],
-      "status": "Backlog"
+        "id": "7",
+        "title": "Translation suggestion",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Suggestion de traduction"
+            },
+            {
+                "language": "en",
+                "value": "Translation suggestion"
+            }
+        ],
+        "description": "The app suggests you a translation when you're adding a new word.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "L'app vous suggère une traduction lorsque vous ajoutez un nouveau mot."
+            },
+            {
+                "language": "en",
+                "value": "The app suggests you a translation when you're adding a new word."
+            }
+        ],
+        "status": "Backlog",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "En attente"
+            },
+            {
+                "language": "en",
+                "value": "Backlog"
+            }
+        ]
     },
     {
-      "id": "3",
-      "title": "Register pronunciation",
-      "localizedTitle": [
-          {
-            "language": "fr",
-            "value": "Enregistrer la prononciation"
-          },
-          {
-            "language": "en",
-            "value": "Register pronunciation"
-          }
-      ],
-      "description": "Register your voice to enhanced your pronunciation.",
-      "localizedDescription": [
-          {
-            "language": "fr",
-            "value": "Enregistrer votre voix pour améliorer votre prononciation."
-          },
-          {
-            "language": "en",
-            "value": "Register your voice to enhanced your pronunciation."
-          }
-      ],
-      "status": "Backlog"
+        "id": "8",
+        "title": "Blur the current word to review",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Flouter le mot à réviser"
+            },
+            {
+                "language": "en",
+                "value": "Blur the current word to review"
+            }
+        ],
+        "description": "The app blurs the selected word to review until you find it. You can't cheat!",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "L'app floute le mot à réviser jusqu'à ce que vous le trouviez. Vous ne pouvez pas tricher !"
+            },
+            {
+                "language": "en",
+                "value": "The app blurs the selected word to review until you find it. You can't cheat!"
+            }
+        ],
+        "status": "Backlog",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "En attente"
+            },
+            {
+                "language": "en",
+                "value": "Backlog"
+            }
+        ]
     },
     {
-      "id": "4",
-      "title": "Add image",
-      "localizedTitle": [
-          {
-            "language": "fr",
-            "value": "Ajouter une image"
-          },
-          {
-            "language": "en",
-            "value": "Add image"
-          }
-      ],
-      "description": "Add an image to illustrate your vocabulary.",
-      "localizedDescription": [
-          {
-            "language": "fr",
-            "value": "Ajouter une image pour illustrer votre vocabulaire."
-          },
-          {
-            "language": "en",
-            "value": "Add an image to illustrate your vocabulary."
-          }
-      ],
-      "status": "Backlog"
+        "id": "9",
+        "title": "Review widget",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Widget de révision"
+            },
+            {
+                "language": "en",
+                "value": "Review widget"
+            }
+        ],
+        "description": "You can show the word to review in a widget on your device.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "Vous pouvez afficher le mot à réviser dans un widget sur votre appareil."
+            },
+            {
+                "language": "en",
+                "value": "You can show the word to review in a widget on your device."
+            }
+        ],
+        "status": "Backlog",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "En attente"
+            },
+            {
+                "language": "en",
+                "value": "Backlog"
+            }
+        ]
     },
     {
-      "id": "6",
-      "title": "CSV export",
-      "localizedTitle": [
-          {
-            "language": "fr",
-            "value": "Export CSV"
-          },
-          {
-            "language": "en",
-            "value": "CSV export"
-          }
-      ],
-      "description": "Get all your lexicon data in CSV file.",
-      "localizedDescription": [
-          {
-            "language": "fr",
-            "value": "Retrouver tout votre lexique dans un fichier CSV."
-          },
-          {
-            "language": "en",
-            "value": "Get all your lexicon data in CSV file."
-          }
-      ],
-      "status": "Backlog"
+        "id": "1",
+        "title": "Add verbs",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Gestion des verbes"
+            },
+            {
+                "language": "en",
+                "value": "Add verbs"
+            }
+        ],
+        "description": "Qualify a word as a verb and add conjugation.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "Spécifier un mot en tant que verbe et ajouter la conjugaison."
+            },
+            {
+                "language": "en",
+                "value": "Qualify a word as a verb and add conjugation."
+            }
+        ],
+        "status": "Backlog",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "En attente"
+            },
+            {
+                "language": "en",
+                "value": "Backlog"
+            }
+        ]
     },
     {
-      "id": "5",
-      "title": "Word of the day",
-      "localizedTitle": [
-          {
-            "language": "fr",
-            "value": "Mot du jour"
-          },
-          {
-            "language": "en",
-            "value": "Word of the day"
-          }
-      ],
-      "description": "Every day, highlight a word of your lexicon to help you remember it.",
-      "localizedDescription": [
-          {
-            "language": "fr",
-            "value": "Chaque jour, l'app mettra en avant un mot de votre lexique pour vous aider à le mémoriser."
-          },
-          {
-            "language": "en",
-            "value": "Every day, highlight a word of your lexicon to help you remember it."
-          }
-      ],
-      "status": "finished",
-      "isFinished": true
+        "id": "2",
+        "title": "Add synonyms",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Gestion des synonymes"
+            },
+            {
+                "language": "en",
+                "value": "Add synonyms"
+            }
+        ],
+        "description": "Add synonyms for a word.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "Ajouter des synonymes pour un mot."
+            },
+            {
+                "language": "en",
+                "value": "Add synonyms for a word."
+            }
+        ],
+        "status": "Backlog",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "En attente"
+            },
+            {
+                "language": "en",
+                "value": "Backlog"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Register pronunciation",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Enregistrer la prononciation"
+            },
+            {
+                "language": "en",
+                "value": "Register pronunciation"
+            }
+        ],
+        "description": "Register your voice to enhanced your pronunciation.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "Enregistrer votre voix pour améliorer votre prononciation."
+            },
+            {
+                "language": "en",
+                "value": "Register your voice to enhanced your pronunciation."
+            }
+        ],
+        "status": "Backlog",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "En attente"
+            },
+            {
+                "language": "en",
+                "value": "Backlog"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Add image",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Ajouter une image"
+            },
+            {
+                "language": "en",
+                "value": "Add image"
+            }
+        ],
+        "description": "Add an image to illustrate your vocabulary.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "Ajouter une image pour illustrer votre vocabulaire."
+            },
+            {
+                "language": "en",
+                "value": "Add an image to illustrate your vocabulary."
+            }
+        ],
+        "status": "Backlog",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "En attente"
+            },
+            {
+                "language": "en",
+                "value": "Backlog"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "title": "CSV export",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Export CSV"
+            },
+            {
+                "language": "en",
+                "value": "CSV export"
+            }
+        ],
+        "description": "Get all your lexicon data in CSV file.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "Retrouver tout votre lexique dans un fichier CSV."
+            },
+            {
+                "language": "en",
+                "value": "Get all your lexicon data in CSV file."
+            }
+        ],
+        "status": "Backlog",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "En attente"
+            },
+            {
+                "language": "en",
+                "value": "Backlog"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Word of the day",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Mot du jour"
+            },
+            {
+                "language": "en",
+                "value": "Word of the day"
+            }
+        ],
+        "description": "Every day, highlight a word of your lexicon to help you remember it.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "Chaque jour, l'app mettra en avant un mot de votre lexique pour vous aider à le mémoriser."
+            },
+            {
+                "language": "en",
+                "value": "Every day, highlight a word of your lexicon to help you remember it."
+            }
+        ],
+        "status": "available",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "Disponible"
+            },
+            {
+                "language": "en",
+                "value": "Available"
+            }
+        ],
+        "isFinished": true
     }
-  ]
+]
