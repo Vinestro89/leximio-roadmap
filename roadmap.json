@@ -72,6 +72,42 @@
         ]
     },
     {
+        "id": "11",
+        "title": "words pack",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Packs de mots par niveau"
+            },
+            {
+                "language": "en",
+                "value": "Words packages"
+            }
+        ],
+        "description": "The app offers you the possibility to add a pre-defined list of words into your vocabulary.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "L'app vous propose d'ajouter dans votre vocabulaire différents pack de mots classés par niveau."
+            },
+            {
+                "language": "en",
+                "value": "The app offers you the possibility to add packages of words classified by level into your vocabulary."
+            }
+        ],
+        "status": "Backlog",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "En attente"
+            },
+            {
+                "language": "en",
+                "value": "Backlog"
+            }
+        ]
+    },
+    {
         "id": "8",
         "title": "Blur the current word to review",
         "localizedTitle": [
