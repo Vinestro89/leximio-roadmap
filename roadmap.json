@@ -1,41 +1,5 @@
 [
     {
-        "id": "6",
-        "title": "Review notification",
-        "localizedTitle": [
-            {
-                "language": "fr",
-                "value": "Notification de révision"
-            },
-            {
-                "language": "en",
-                "value": "Review notification"
-            }
-        ],
-        "description": "Get notified when a review is available.",
-        "localizedDescription": [
-            {
-                "language": "fr",
-                "value": "Être notifié lorsqu'une révision est disponible."
-            },
-            {
-                "language": "en",
-                "value": "Get notified when a review is available."
-            }
-        ],
-        "status": "Backlog",
-        "localizedStatus": [
-            {
-                "language": "fr",
-                "value": "En attente"
-            },
-            {
-                "language": "en",
-                "value": "Backlog"
-            }
-        ]
-    },
-    {
         "id": "7",
         "title": "Translation suggestion",
         "localizedTitle": [
@@ -59,15 +23,15 @@
                 "value": "The app suggests you a translation when you're adding a new word."
             }
         ],
-        "status": "Backlog",
+        "status": "In progress",
         "localizedStatus": [
             {
                 "language": "fr",
-                "value": "En attente"
+                "value": "En développement"
             },
             {
                 "language": "en",
-                "value": "Backlog"
+                "value": "In progress"
             }
         ]
     },
@@ -129,6 +93,42 @@
             {
                 "language": "en",
                 "value": "The app blurs the selected word to review until you find it. You can't cheat!"
+            }
+        ],
+        "status": "Backlog",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "En attente"
+            },
+            {
+                "language": "en",
+                "value": "Backlog"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "title": "Use the Spaced Repetition System (SRS) learning technic",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Utiliser le système de révision par répétition espacée (SRS)"
+            },
+            {
+                "language": "en",
+                "value": "Use the Spaced Repetition System (SRS) learning technic"
+            }
+        ],
+        "description": "Improve your reviews with scientifically proved method.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "Améliorez vos révisions avec une méthode de révision scientifiquement prouvée."
+            },
+            {
+                "language": "en",
+                "value": "Improve your reviews with scientifically proved method."
             }
         ],
         "status": "Backlog",
@@ -381,6 +381,43 @@
             {
                 "language": "en",
                 "value": "Every day, highlight a word of your lexicon to help you remember it."
+            }
+        ],
+        "status": "available",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "Terminé"
+            },
+            {
+                "language": "en",
+                "value": "Done"
+            }
+        ],
+        "isFinished": true
+    },
+    {
+        "id": "6",
+        "title": "Review notification",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Notification de révision"
+            },
+            {
+                "language": "en",
+                "value": "Review notification"
+            }
+        ],
+        "description": "Get notified when a review is available.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "Être notifié lorsqu'une révision est disponible."
+            },
+            {
+                "language": "en",
+                "value": "Get notified when a review is available."
             }
         ],
         "status": "available",
