@@ -1,41 +1,5 @@
 [
     {
-        "id": "7",
-        "title": "Translation suggestion",
-        "localizedTitle": [
-            {
-                "language": "fr",
-                "value": "Suggestion de traduction"
-            },
-            {
-                "language": "en",
-                "value": "Translation suggestion"
-            }
-        ],
-        "description": "The app suggests you a translation when you're adding a new word.",
-        "localizedDescription": [
-            {
-                "language": "fr",
-                "value": "L'app vous suggère une traduction lorsque vous ajoutez un nouveau mot."
-            },
-            {
-                "language": "en",
-                "value": "The app suggests you a translation when you're adding a new word."
-            }
-        ],
-        "status": "In progress",
-        "localizedStatus": [
-            {
-                "language": "fr",
-                "value": "En développement"
-            },
-            {
-                "language": "en",
-                "value": "In progress"
-            }
-        ]
-    },
-    {
         "id": "11",
         "title": "words pack",
         "localizedTitle": [
@@ -358,6 +322,43 @@
                 "value": "Backlog"
             }
         ]
+    },
+    {
+        "id": "7",
+        "title": "Translation suggestion",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Suggestion de traduction"
+            },
+            {
+                "language": "en",
+                "value": "Translation suggestion"
+            }
+        ],
+        "description": "The app suggests you a translation when you're adding a new word.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "L'app vous suggère une traduction lorsque vous ajoutez un nouveau mot."
+            },
+            {
+                "language": "en",
+                "value": "The app suggests you a translation when you're adding a new word."
+            }
+        ],
+        "status": "available",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "Terminé"
+            },
+            {
+                "language": "en",
+                "value": "Done"
+            }
+        ],
+        "isFinished": true
     },
     {
         "id": "5",
