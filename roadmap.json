@@ -36,42 +36,6 @@
         ]
     },
     {
-        "id": "8",
-        "title": "Blur the current word to review",
-        "localizedTitle": [
-            {
-                "language": "fr",
-                "value": "Flouter le mot à réviser"
-            },
-            {
-                "language": "en",
-                "value": "Blur the current word to review"
-            }
-        ],
-        "description": "The app blurs the selected word to review until you find it. You can't cheat!",
-        "localizedDescription": [
-            {
-                "language": "fr",
-                "value": "L'app floute le mot à réviser jusqu'à ce que vous le trouviez. Vous ne pouvez pas tricher !"
-            },
-            {
-                "language": "en",
-                "value": "The app blurs the selected word to review until you find it. You can't cheat!"
-            }
-        ],
-        "status": "Backlog",
-        "localizedStatus": [
-            {
-                "language": "fr",
-                "value": "En attente"
-            },
-            {
-                "language": "en",
-                "value": "Backlog"
-            }
-        ]
-    },
-    {
         "id": "12",
         "title": "Use the Spaced Repetition System (SRS) learning technic",
         "localizedTitle": [
@@ -93,42 +57,6 @@
             {
                 "language": "en",
                 "value": "Improve your reviews with scientifically proved method."
-            }
-        ],
-        "status": "Backlog",
-        "localizedStatus": [
-            {
-                "language": "fr",
-                "value": "En attente"
-            },
-            {
-                "language": "en",
-                "value": "Backlog"
-            }
-        ]
-    },
-    {
-        "id": "9",
-        "title": "Review widget",
-        "localizedTitle": [
-            {
-                "language": "fr",
-                "value": "Widget de révision"
-            },
-            {
-                "language": "en",
-                "value": "Review widget"
-            }
-        ],
-        "description": "You can show the word to review in a widget on your device.",
-        "localizedDescription": [
-            {
-                "language": "fr",
-                "value": "Vous pouvez afficher le mot à réviser dans un widget sur votre appareil."
-            },
-            {
-                "language": "en",
-                "value": "You can show the word to review in a widget on your device."
             }
         ],
         "status": "Backlog",
@@ -422,6 +350,43 @@
             }
         ],
         "status": "available",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "Terminé"
+            },
+            {
+                "language": "en",
+                "value": "Done"
+            }
+        ],
+        "isFinished": true
+    },
+    {
+        "id": "8",
+        "title": "Blur the current word to review",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Flouter le mot à réviser"
+            },
+            {
+                "language": "en",
+                "value": "Blur the current word to review"
+            }
+        ],
+        "description": "The app blurs the selected word to review until you find it. You can't cheat!",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "L'app floute le mot à réviser jusqu'à ce que vous le trouviez. Vous ne pouvez pas tricher !"
+            },
+            {
+                "language": "en",
+                "value": "The app blurs the selected word to review until you find it. You can't cheat!"
+            }
+        ],
+        "status": "Backlog",
         "localizedStatus": [
             {
                 "language": "fr",
