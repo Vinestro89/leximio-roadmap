@@ -72,42 +72,6 @@
         ]
     },
     {
-        "id": "1",
-        "title": "Add verbs",
-        "localizedTitle": [
-            {
-                "language": "fr",
-                "value": "Gestion des verbes"
-            },
-            {
-                "language": "en",
-                "value": "Add verbs"
-            }
-        ],
-        "description": "Qualify a word as a verb and add conjugation.",
-        "localizedDescription": [
-            {
-                "language": "fr",
-                "value": "Spécifier un mot en tant que verbe et ajouter la conjugaison."
-            },
-            {
-                "language": "en",
-                "value": "Qualify a word as a verb and add conjugation."
-            }
-        ],
-        "status": "Backlog",
-        "localizedStatus": [
-            {
-                "language": "fr",
-                "value": "En attente"
-            },
-            {
-                "language": "en",
-                "value": "Backlog"
-            }
-        ]
-    },
-    {
         "id": "2",
         "title": "Add synonyms",
         "localizedTitle": [
@@ -279,11 +243,11 @@
         "localizedStatus": [
             {
                 "language": "fr",
-                "value": "Terminé"
+                "value": "Disponible"
             },
             {
                 "language": "en",
-                "value": "Done"
+                "value": "Available"
             }
         ],
         "isFinished": true
@@ -316,11 +280,11 @@
         "localizedStatus": [
             {
                 "language": "fr",
-                "value": "Terminé"
+                "value": "Disponible"
             },
             {
                 "language": "en",
-                "value": "Done"
+                "value": "Available"
             }
         ],
         "isFinished": true
@@ -353,11 +317,11 @@
         "localizedStatus": [
             {
                 "language": "fr",
-                "value": "Terminé"
+                "value": "Disponible"
             },
             {
                 "language": "en",
-                "value": "Done"
+                "value": "Available"
             }
         ],
         "isFinished": true
@@ -390,13 +354,50 @@
         "localizedStatus": [
             {
                 "language": "fr",
-                "value": "Terminé"
+                "value": "Disponible"
             },
             {
                 "language": "en",
-                "value": "Done"
+                "value": "Available"
             }
         ],
         "isFinished": true
-    }
+    },
+    {
+        "id": "1",
+        "title": "Add verbs",
+        "localizedTitle": [
+            {
+                "language": "fr",
+                "value": "Gestion des verbes"
+            },
+            {
+                "language": "en",
+                "value": "Add verbs"
+            }
+        ],
+        "description": "Qualify a word as a verb and add conjugation.",
+        "localizedDescription": [
+            {
+                "language": "fr",
+                "value": "Spécifier un mot en tant que verbe et ajouter la conjugaison."
+            },
+            {
+                "language": "en",
+                "value": "Qualify a word as a verb and add conjugation."
+            }
+        ],
+        "status": "Backlog",
+        "localizedStatus": [
+            {
+                "language": "fr",
+                "value": "Disponible"
+            },
+            {
+                "language": "en",
+                "value": "Available"
+            }
+        ],
+        "isFinished": true
+    },
 ]
