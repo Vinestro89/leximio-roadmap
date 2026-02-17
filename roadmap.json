@@ -181,39 +181,40 @@
     },
     {
         "id": "10",
-        "title": "CSV export",
+        "title": "JSON export",
         "localizedTitle": [
             {
                 "language": "fr",
-                "value": "Export CSV"
+                "value": "Export JSON"
             },
             {
                 "language": "en",
-                "value": "CSV export"
+                "value": "JSON export"
             }
         ],
-        "description": "Get all your lexicon data in CSV file.",
+        "description": "Get all your lexicon data in JSON file.",
         "localizedDescription": [
             {
                 "language": "fr",
-                "value": "Retrouver tout votre lexique dans un fichier CSV."
+                "value": "Retrouver tout votre lexique dans un fichier JSON."
             },
             {
                 "language": "en",
-                "value": "Get all your lexicon data in CSV file."
+                "value": "Get all your lexicon data in JSON file."
             }
         ],
-        "status": "Backlog",
+        "status": "available",
         "localizedStatus": [
             {
                 "language": "fr",
-                "value": "En attente"
+                "value": "Disponible"
             },
             {
                 "language": "en",
-                "value": "Backlog"
+                "value": "Available"
             }
-        ]
+        ],
+        "isFinished": true
     },
     {
         "id": "7",
